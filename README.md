@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @yehor-anisimov
-- 👀 I’m interested
+- 👋 Hi, I’m Yehor Anisimov
 - 🌱 I’m currently work at @PayPal
